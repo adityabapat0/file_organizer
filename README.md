@@ -1,6 +1,6 @@
 # file_organizer
 
-just a simple file organizer to maintain my ocd under control. 
+just a simple file organizer to keep my ocd under control. 
 
 mainly targeted towards /downloads folder beacuse it is always messy but it can be focused on different folders by changing its directory.
 
